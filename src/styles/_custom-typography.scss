@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Mako&family=Overlock:ital,wght@0,400;0,700;0,900;1,900&display=swap");
+
+html {
+  font-size: 62.5%; /* 10px browser default */
+  background-color: #e83e86;
+}
+
+body {
+  font-weight: 400;
+  font-size: 2rem; /* 20px */
+  line-height: 1.6;
+  font-family: "Mako", sans-serif;
+}
+p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+h1 {
+  font-family: "Overlock", cursive;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+// h3,
+// h4,
+// h5,
+// h6 {
+//   font-family: "Dosis", sans-serif;
+//   margin-bottom: 0;
+//   margin-top: 0;
+// }
+
+// a {
+//   text-decoration: underline;
+// }

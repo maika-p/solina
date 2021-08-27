@@ -1,0 +1,24 @@
+$vr: 32px;
+
+main {
+  width: 650px;
+  margin: auto;
+  margin-top: 12rem;
+  // background: repeating-linear-gradient(
+  //   to bottom,
+  //   transparent 0px,
+  //   transparent #{$vr - 1px},
+  //   black #{$vr - 1px},
+  //   black $vr
+  // );
+  // background-position: 0 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+}

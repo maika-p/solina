@@ -1,0 +1,16 @@
+@import "~@angular/material/theming";
+@import "./mat-colors";
+@import "./mat-overrides";
+@import "./custom-typography";
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web&display=swap");
+
+$color-gradient-primary-light: #ae64e7;
+
+html,
+body {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #fdedf3;
+  color: #ea4c89;
+}
